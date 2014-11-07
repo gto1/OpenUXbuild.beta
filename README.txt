@@ -4,7 +4,7 @@ README.txt
 
 OpenUXbuild: Sustainable Web Ecosystem Design
 a.k.a. Data-driven approaches to the constructed user experience
-
+http://openuxbuild.openwebby.com
 
 
 ===========================///////////////////=================
@@ -27,11 +27,16 @@ OpenUXbuild is a(n)…
 
 WHAT’S IN THE PACKAGE?
 ======================
-The package currently comes with a csv, ods, pdf, and xlsx formats of OpenUXbuild. There is also the license.txt and the readme.txt.
+The package currently comes with:
+1. OpenUXbuild in the following formats: csv, ods, pdf, and xlsx. 
+2. The Sustainable Web Ecosystem Design Model vinn diagram.
+3. The Sustainable Web Ecosystem Design Anatomy diagram.
+4. The license.txt.
+5. The readme.txt.
 
 
-COMPONTENTS
-===========
+WHAT'S NOT IN THE PACKAGE (i.e. COMPONTENTS)
+============================================
 OpenUXbuild uses a few components that were designed and engineered specifically for it’s purposes. These components ship with OpenUXbuild although access to them will depend on the user.
 
 1. Openbaseball - OpenBaseball is an open source web application, database, and framework used for teaching web programming, development, design, architecture, and data science among other relevant sustainable web ecosystem building topics. The programming and design of OpenBaseball is by Greg O'Toole (@openwebby). The data is from MLB.com and Sean Lahman's excellent open source baseball statistics archive. This is a beta version of OpenBaseball. Later versions will work as an open source user interface framework with saved copies of Sean's or your own data. For more, see: http://openbaseball.openwebby.com
@@ -58,7 +63,8 @@ The Penn State Open Device Lab hosted by the College of IST is here to serve the
 
 CHANGE LOG
 ==========
-Beta.0 - initial release
+Nov 7, 2014 Beta.0 - Added SWED anatomy and model documents. Updated readme.txt. Also updated http://gto1.github.io/OpenUXbuild_beta.0/.
+Oct 31, 2014 Beta.0 - Initial release.
 
 
 COMPATIBILITY NOTES
