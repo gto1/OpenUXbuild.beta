@@ -25,6 +25,11 @@ OpenUXbuild is a(n)…
 • HTML5 Standards Compliant Project
 
 
+"Sort of" A Mission Statement
+===========================
+The web is an information communication technology medium that can be developed based on art, design, or science. The premise of this project is to describe and offer a method on the process of building a professional web application in order to demonstrate how each step can be scientifically determined above and beyond being design and art determined. Art for art’s sake has long been of the modernist rhetoric and muse: creative expression because it is nothing else other than creative expression. At the same time, design can often be over-generalized but accurately described as creative expression for a reason. Building the web from the perspective of art or design require different approaches than building the web for a functional purpose using the scientific method. The goal here is to show how building for a functional purpose can and should be a largely scientific endeavor that is based entirely on empirical data derived from a combination of focus groups, interviews, usability testing, user analytics, reliable computer science, system design, and biomedical experiments. Professional analysis and interpretation of this collection of data is what leads to the most effective aesthetics of usability, that is, the optimized user experience.
+
+
 WHAT’S IN THE PACKAGE?
 ======================
 The package currently comes with:
@@ -63,8 +68,9 @@ The Penn State Open Device Lab hosted by the College of IST is here to serve the
 
 CHANGE LOG
 ==========
-Nov 7, 2014 Beta.0 - Added SWED anatomy and model documents. Updated readme.txt. Also updated http://gto1.github.io/OpenUXbuild_beta.0/.
-Oct 31, 2014 Beta.0 - Initial release.
+-Nov 7, 2014 (2) Beta.0 - Adding mission statement to readme. 
+-Nov 7, 2014 (1) Beta.0 - Added SWED anatomy and model documents. Updated readme.txt. Also updated http://gto1.github.io/OpenUXbuild_beta.0/.
+-Oct 31, 2014 Beta.0 - Initial release.
 
 
 COMPATIBILITY NOTES
