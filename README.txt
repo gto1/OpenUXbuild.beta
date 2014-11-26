@@ -68,9 +68,23 @@ The Penn State Open Device Lab hosted by the College of IST is here to serve the
 
 CHANGE LOG
 ==========
--Nov 7, 2014 (2) Beta.0 - Adding mission statement to readme. 
--Nov 7, 2014 (1) Beta.0 - Added SWED anatomy and model documents. Updated readme.txt. Also updated http://gto1.github.io/OpenUXbuild_beta.0/.
--Oct 31, 2014 Beta.0 - Initial release.
+
+Nov 26, 2014 Beta
+•Github repo renamed OpenUXbuild.beta
+•Added full list of security modules (for Drupal users)
+•Updated performance section to better organize
+•Added all keywords to consider (from Sustainable Web Ecosystem Design book and SWED anatomy diagram)
+
+Nov 7, 2014 (2) Beta.0
+•Adding mission statement to readme. 
+
+Nov 7, 2014 (1) Beta.0
+•Added SWED anatomy AND model documents.
+•Updated readme.txt. 
+•Also updated http://gto1.github.io/OpenUXbuild_beta.0/.
+
+Oct 31, 2014 Beta.0
+•Initial release.
 
 
 COMPATIBILITY NOTES
